@@ -1,0 +1,15 @@
+Proposta do jogo:
+
+- Uma garota que acorda em sua cidade coberta por neve e com casas congeladas, assim, ela encontra um estranho deitado no chão, em seus ultimos esforços, pede para que a protagonista use as chamas para acender os lampioes que cada residente da vila possui na frente de sua casa.
+
+- Talvez tenha algum combate, Mas com um jogo assim, creio que n seja bom implementar.
+
+- Quanto mais casas são descongeladas, o jogador vai conhecendo mais NPC's que vão ajudar o protagonista em sua jornada. Podendo alterar o final do jogo dependendo de quantas casas você descongela.
+
+
+
+Estilo do jogo:
+- Rpg estilo Undertale, com dialogos em estilo de visual novel, alternando entre pixel art com menos detalhes para uma visual novel com visuais mais detalhados.
+
+Soundtrack:
+- Uma música mais melancólica, que traria um estilo mais depressivo pelo fato da cidade estar destruida pelo gelo. ao decorrer do jogo e com as casas sendo descongeladas, a música vai tomando um tom mais animado.
